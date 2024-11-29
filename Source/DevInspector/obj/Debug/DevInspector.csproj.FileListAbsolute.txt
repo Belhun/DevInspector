@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\Source\DevInspector\obj\Debug\DevInspector.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\Source\DevInspector\obj\Debug\DevInspector.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\1.5\Assemblies\DevInspector.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\1.5\Assemblies\DevInspector.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\Source\DevInspector\obj\Debug\DevInspector.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DevInspector\Source\DevInspector\obj\Debug\DevInspector.pdb
